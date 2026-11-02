@@ -1,0 +1,8 @@
+name: BedrockPlace
+version: 1.0.0
+main: dev.example.bedrockplace.BedrockPlace
+api-version: '26.2'
+description: Dat block kieu Bedrock tren Java
+permissions:
+  bedrockplace.use:
+    default: true
